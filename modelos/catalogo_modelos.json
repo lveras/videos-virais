@@ -1,0 +1,74 @@
+[
+  {
+    "model_key": "llama3.1:latest",
+    "nome": "Llama 3.1 8B (Ollama Diretor Criativo)",
+    "provider": "ollama",
+    "repo_id": "registry.ollama.ai/library/llama3.1:latest",
+    "filename": "latest",
+    "target_dir": "C:\\Users\\lucia\\.ollama\\models\\manifests\\registry.ollama.ai\\library\\llama3.1",
+    "local_path": "C:\\Users\\lucia\\.ollama\\models\\manifests\\registry.ollama.ai\\library\\llama3.1\\latest",
+    "size_mb": 4692.8,
+    "obrigatorio": 1,
+    "status": "instalado"
+  },
+  {
+    "model_key": "pytorch_rocm_rx9070xt",
+    "nome": "PyTorch ROCm SDK (AMD Radeon RX 9070 XT)",
+    "provider": "pytorch_rocm",
+    "repo_id": "AMD AI Bundle ROCm venv",
+    "filename": "python.exe",
+    "target_dir": "C:\\Users\\lucia\\AppData\\Local\\AMD\\AI_Bundle\\ComfyUI\\venv\\Scripts",
+    "local_path": "C:\\Users\\lucia\\AppData\\Local\\AMD\\AI_Bundle\\ComfyUI\\venv\\Scripts\\python.exe",
+    "size_mb": 0.1,
+    "obrigatorio": 1,
+    "status": "instalado"
+  },
+  {
+    "model_key": "comfyui_amd_bundle",
+    "nome": "ComfyUI AMD Bundle (Engine Video/Diffusion)",
+    "provider": "comfyui",
+    "repo_id": "AMD AI Bundle ComfyUI",
+    "filename": "main.py",
+    "target_dir": "C:\\Users\\lucia\\AppData\\Local\\AMD\\AI_Bundle\\ComfyUI\\ComfyUI",
+    "local_path": "C:\\Users\\lucia\\AppData\\Local\\AMD\\AI_Bundle\\ComfyUI\\ComfyUI\\main.py",
+    "size_mb": 0.01,
+    "obrigatorio": 1,
+    "status": "instalado"
+  },
+  {
+    "model_key": "wan21_1_3b_t2v",
+    "nome": "Wan 2.1 T2V 1.3B (Difusão de Vídeo)",
+    "provider": "huggingface",
+    "repo_id": "Wan-AI/Wan2.1-T2V-1.3B",
+    "filename": "diffusion_pytorch_model.safetensors",
+    "target_dir": "modelos/wan21",
+    "local_path": null,
+    "size_mb": null,
+    "obrigatorio": 0,
+    "status": "ausente"
+  },
+  {
+    "model_key": "wan21_vae",
+    "nome": "Wan 2.1 VAE",
+    "provider": "huggingface",
+    "repo_id": "Wan-AI/Wan2.1-T2V-1.3B",
+    "filename": "Wan2.1_VAE.pth",
+    "target_dir": "modelos/vae",
+    "local_path": null,
+    "size_mb": null,
+    "obrigatorio": 0,
+    "status": "ausente"
+  },
+  {
+    "model_key": "umt5_xxl_fp8",
+    "nome": "UMT5 XXL FP8 Scaled Text Encoder",
+    "provider": "huggingface",
+    "repo_id": "Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+    "filename": "split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+    "target_dir": "modelos/text_encoders",
+    "local_path": null,
+    "size_mb": null,
+    "obrigatorio": 0,
+    "status": "ausente"
+  }
+]

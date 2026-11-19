@@ -1,0 +1,102 @@
+{
+  "shortcode": "uhQXBMZ-sTg",
+  "categoria_fisica": "rug_cleaning_asmr",
+  "variacao_tema": "Superfície arquitetônica hexagonal em ouro escovado e grafite coberta por espuma bioluminescente turquesa/magenta/violeta raspada por rodo duplo de titânio em ângulo de 50°",
+  "video_final_path": "criados/criado_04_rodo_espuma_prismatica.mp4",
+  "video_specs": {
+    "width": 1080,
+    "height": 1920,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "fps": 60.0,
+    "duration_sec": 10.0,
+    "size_bytes": 7835220
+  },
+  "handles": {
+    "youtube_shorts": "@ASMRViralLab",
+    "instagram_reels": "@ASMRViralLab",
+    "tiktok": "@ASMRViralLab"
+  },
+  "plataformas": [
+    {
+      "ref_shortcode": "uhQXBMZ-sTg",
+      "plataforma": "youtube_shorts",
+      "video_final_path": "criados/criado_04_rodo_espuma_prismatica.mp4",
+      "titulo": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! #Shorts",
+      "legenda_completa": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal!\nTitanium Squeegee Clearing Neon Foam on Hex Gold!\n\nSom ASMR original masterizado em alta definição | Categoria: rug_cleaning_asmr\nTransformação visual: Superfície arquitetônica hexagonal em ouro escovado e grafite coberta por espuma bioluminescente turquesa/magenta/violeta raspada por rodo duplo de titânio em ângulo de 50°\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Shorts",
+      "hashtags": "#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Shorts",
+      "primeiro_comentario": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "YouTube Data API v3 - videos.insert",
+        "file_path": "C:\\videos-virais\\criados\\criado_04_rodo_espuma_prismatica.mp4",
+        "snippet": {
+          "title": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! #Shorts",
+          "description": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal!\nTitanium Squeegee Clearing Neon Foam on Hex Gold!\n\nSom ASMR original masterizado em alta definição | Categoria: rug_cleaning_asmr\nTransformação visual: Superfície arquitetônica hexagonal em ouro escovado e grafite coberta por espuma bioluminescente turquesa/magenta/violeta raspada por rodo duplo de titânio em ângulo de 50°\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Shorts",
+          "tags": [
+            "ASMR",
+            "OddlySatisfying",
+            "FoamCleaning",
+            "SatisfyingASMR",
+            "OuroHexagonal",
+            "Relaxing",
+            "Satisfying",
+            "Shorts"
+          ],
+          "categoryId": "24"
+        },
+        "status": {
+          "privacyStatus": "public",
+          "selfDeclaredMadeForKids": false
+        },
+        "follow_up_comment": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!"
+      }
+    },
+    {
+      "ref_shortcode": "uhQXBMZ-sTg",
+      "plataforma": "instagram_reels",
+      "video_final_path": "criados/criado_04_rodo_espuma_prismatica.mp4",
+      "titulo": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal!",
+      "legenda_completa": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Reels",
+      "hashtags": "#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Reels",
+      "primeiro_comentario": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "Instagram Graph API - POST /{ig-user-id}/media + media_publish",
+        "file_path": "C:\\videos-virais\\criados\\criado_04_rodo_espuma_prismatica.mp4",
+        "media_type": "REELS",
+        "share_to_feed": true,
+        "caption": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Reels",
+        "follow_up_comment": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!"
+      }
+    },
+    {
+      "ref_shortcode": "uhQXBMZ-sTg",
+      "plataforma": "tiktok",
+      "video_final_path": "criados/criado_04_rodo_espuma_prismatica.mp4",
+      "titulo": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal!",
+      "legenda_completa": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #FYP",
+      "hashtags": "#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #FYP",
+      "primeiro_comentario": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "TikTok Content Posting API - POST /v2/post/publish/video/init/",
+        "file_path": "C:\\videos-virais\\criados\\criado_04_rodo_espuma_prismatica.mp4",
+        "post_info": {
+          "title": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #FYP",
+          "privacy_level": "PUBLIC_TO_EVERYONE",
+          "disable_duet": false,
+          "disable_stitch": false
+        },
+        "source_info": {
+          "source": "FILE_UPLOAD",
+          "video_size": 7835220
+        },
+        "follow_up_comment": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab"
+      }
+    }
+  ]
+}

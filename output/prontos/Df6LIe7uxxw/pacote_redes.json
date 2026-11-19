@@ -1,0 +1,101 @@
+{
+  "shortcode": "Df6LIe7uxxw",
+  "categoria_fisica": "rotary_shredding",
+  "variacao_tema": "Eixo helicoidal com crosta vulcânica escura usinado em tracking shot oblíquo a 60° por pastilha dourada com linha incandescente rubi revelando cromo azul-safira",
+  "video_final_path": "criados/criado_03_torno_helicoidal_damasco.mp4",
+  "video_specs": {
+    "width": 1080,
+    "height": 1920,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "fps": 60.0,
+    "duration_sec": 10.0,
+    "size_bytes": 6341143
+  },
+  "handles": {
+    "youtube_shorts": "@ASMRViralLab",
+    "instagram_reels": "@ASMRViralLab",
+    "tiktok": "@ASMRViralLab"
+  },
+  "plataformas": [
+    {
+      "ref_shortcode": "Df6LIe7uxxw",
+      "plataforma": "youtube_shorts",
+      "video_final_path": "criados/criado_03_torno_helicoidal_damasco.mp4",
+      "titulo": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! #Shorts",
+      "legenda_completa": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada!\nHelical Lathe: Volcanic Crust to Mirror Sapphire Chrome!\n\nSom ASMR original masterizado em alta definição | Categoria: rotary_shredding\nTransformação visual: Eixo helicoidal com crosta vulcânica escura usinado em tracking shot oblíquo a 60° por pastilha dourada com linha incandescente rubi revelando cromo azul-safira\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Shorts",
+      "hashtags": "#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Shorts",
+      "primeiro_comentario": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "YouTube Data API v3 - videos.insert",
+        "file_path": "C:\\videos-virais\\criados\\criado_03_torno_helicoidal_damasco.mp4",
+        "snippet": {
+          "title": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! #Shorts",
+          "description": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada!\nHelical Lathe: Volcanic Crust to Mirror Sapphire Chrome!\n\nSom ASMR original masterizado em alta definição | Categoria: rotary_shredding\nTransformação visual: Eixo helicoidal com crosta vulcânica escura usinado em tracking shot oblíquo a 60° por pastilha dourada com linha incandescente rubi revelando cromo azul-safira\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Shorts",
+          "tags": [
+            "ASMR",
+            "OddlySatisfying",
+            "MetalLathe",
+            "MachiningASMR",
+            "AcoDamasco",
+            "Satisfying",
+            "Shorts"
+          ],
+          "categoryId": "24"
+        },
+        "status": {
+          "privacyStatus": "public",
+          "selfDeclaredMadeForKids": false
+        },
+        "follow_up_comment": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!"
+      }
+    },
+    {
+      "ref_shortcode": "Df6LIe7uxxw",
+      "plataforma": "instagram_reels",
+      "video_final_path": "criados/criado_03_torno_helicoidal_damasco.mp4",
+      "titulo": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada!",
+      "legenda_completa": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Reels",
+      "hashtags": "#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Reels",
+      "primeiro_comentario": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "Instagram Graph API - POST /{ig-user-id}/media + media_publish",
+        "file_path": "C:\\videos-virais\\criados\\criado_03_torno_helicoidal_damasco.mp4",
+        "media_type": "REELS",
+        "share_to_feed": true,
+        "caption": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Reels",
+        "follow_up_comment": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!"
+      }
+    },
+    {
+      "ref_shortcode": "Df6LIe7uxxw",
+      "plataforma": "tiktok",
+      "video_final_path": "criados/criado_03_torno_helicoidal_damasco.mp4",
+      "titulo": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada!",
+      "legenda_completa": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #FYP",
+      "hashtags": "#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #FYP",
+      "primeiro_comentario": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "TikTok Content Posting API - POST /v2/post/publish/video/init/",
+        "file_path": "C:\\videos-virais\\criados\\criado_03_torno_helicoidal_damasco.mp4",
+        "post_info": {
+          "title": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #FYP",
+          "privacy_level": "PUBLIC_TO_EVERYONE",
+          "disable_duet": false,
+          "disable_stitch": false
+        },
+        "source_info": {
+          "source": "FILE_UPLOAD",
+          "video_size": 6341143
+        },
+        "follow_up_comment": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab"
+      }
+    }
+  ]
+}

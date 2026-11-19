@@ -1,0 +1,407 @@
+[
+  {
+    "shortcode": "FDa1Oa2y0NY",
+    "categoria_fisica": "hydraulic_press_crush",
+    "variacao_tema": "Octaedro chanfrado de cristal esmeralda translúcido com veios de ouro líquido 24K esmagado em câmara baixa diagonal 35° por pistão hexagonal sobre bigorna de titânio",
+    "video_final_path": "criados/criado_01_prensa_cristal_esmeralda.mp4",
+    "video_specs": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "fps": 60.0,
+      "duration_sec": 10.0,
+      "size_bytes": 6577611
+    },
+    "handles": {
+      "youtube_shorts": "@ASMRViralLab",
+      "instagram_reels": "@ASMRViralLab",
+      "tiktok": "@ASMRViralLab"
+    },
+    "plataformas": [
+      {
+        "ref_shortcode": "FDa1Oa2y0NY",
+        "plataforma": "youtube_shorts",
+        "video_final_path": "criados/criado_01_prensa_cristal_esmeralda.mp4",
+        "titulo": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! #Shorts",
+        "legenda_completa": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K!\nHexagonal Press vs Emerald Crystal & 24K Gold!\n\nSom ASMR original masterizado em alta definição | Categoria: hydraulic_press_crush\nTransformação visual: Octaedro chanfrado de cristal esmeralda translúcido com veios de ouro líquido 24K esmagado em câmara baixa diagonal 35° por pistão hexagonal sobre bigorna de titânio\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Shorts",
+        "hashtags": "#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Shorts",
+        "primeiro_comentario": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "YouTube Data API v3 - videos.insert",
+          "file_path": "C:\\videos-virais\\criados\\criado_01_prensa_cristal_esmeralda.mp4",
+          "snippet": {
+            "title": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! #Shorts",
+            "description": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K!\nHexagonal Press vs Emerald Crystal & 24K Gold!\n\nSom ASMR original masterizado em alta definição | Categoria: hydraulic_press_crush\nTransformação visual: Octaedro chanfrado de cristal esmeralda translúcido com veios de ouro líquido 24K esmagado em câmara baixa diagonal 35° por pistão hexagonal sobre bigorna de titânio\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Shorts",
+            "tags": [
+              "ASMR",
+              "OddlySatisfying",
+              "PrensaHidraulica",
+              "CristalEsmeralda",
+              "3DASMR",
+              "Satisfying",
+              "Shorts"
+            ],
+            "categoryId": "24"
+          },
+          "status": {
+            "privacyStatus": "public",
+            "selfDeclaredMadeForKids": false
+          },
+          "follow_up_comment": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!"
+        }
+      },
+      {
+        "ref_shortcode": "FDa1Oa2y0NY",
+        "plataforma": "instagram_reels",
+        "video_final_path": "criados/criado_01_prensa_cristal_esmeralda.mp4",
+        "titulo": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K!",
+        "legenda_completa": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Reels",
+        "hashtags": "#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Reels",
+        "primeiro_comentario": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "Instagram Graph API - POST /{ig-user-id}/media + media_publish",
+          "file_path": "C:\\videos-virais\\criados\\criado_01_prensa_cristal_esmeralda.mp4",
+          "media_type": "REELS",
+          "share_to_feed": true,
+          "caption": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Reels",
+          "follow_up_comment": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!"
+        }
+      },
+      {
+        "ref_shortcode": "FDa1Oa2y0NY",
+        "plataforma": "tiktok",
+        "video_final_path": "criados/criado_01_prensa_cristal_esmeralda.mp4",
+        "titulo": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K!",
+        "legenda_completa": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #FYP",
+        "hashtags": "#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #FYP",
+        "primeiro_comentario": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "TikTok Content Posting API - POST /v2/post/publish/video/init/",
+          "file_path": "C:\\videos-virais\\criados\\criado_01_prensa_cristal_esmeralda.mp4",
+          "post_info": {
+            "title": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #FYP",
+            "privacy_level": "PUBLIC_TO_EVERYONE",
+            "disable_duet": false,
+            "disable_stitch": false
+          },
+          "source_info": {
+            "source": "FILE_UPLOAD",
+            "video_size": 6577611
+          },
+          "follow_up_comment": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab"
+        }
+      }
+    ]
+  },
+  {
+    "shortcode": "DfNRXxjou-k",
+    "categoria_fisica": "layered_ball_slicing",
+    "variacao_tema": "Cápsula toroidal de polímero iridescente (24 camadas em ametista, cobre, safira e magenta) fatiada por lâmina de aço damasco em ângulo isométrico 45° sobre bancada reflexiva",
+    "video_final_path": "criados/criado_02_corte_capsula_iridescente.mp4",
+    "video_specs": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "fps": 60.0,
+      "duration_sec": 10.0,
+      "size_bytes": 9969825
+    },
+    "handles": {
+      "youtube_shorts": "@ASMRViralLab",
+      "instagram_reels": "@ASMRViralLab",
+      "tiktok": "@ASMRViralLab"
+    },
+    "plataformas": [
+      {
+        "ref_shortcode": "DfNRXxjou-k",
+        "plataforma": "youtube_shorts",
+        "video_final_path": "criados/criado_02_corte_capsula_iridescente.mp4",
+        "titulo": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! #Shorts",
+        "legenda_completa": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas!\nDamascus Blade Slicing 24-Layer Iridescent Capsule!\n\nSom ASMR original masterizado em alta definição | Categoria: layered_ball_slicing\nTransformação visual: Cápsula toroidal de polímero iridescente (24 camadas em ametista, cobre, safira e magenta) fatiada por lâmina de aço damasco em ângulo isométrico 45° sobre bancada reflexiva\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Shorts",
+        "hashtags": "#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Shorts",
+        "primeiro_comentario": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "YouTube Data API v3 - videos.insert",
+          "file_path": "C:\\videos-virais\\criados\\criado_02_corte_capsula_iridescente.mp4",
+          "snippet": {
+            "title": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! #Shorts",
+            "description": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas!\nDamascus Blade Slicing 24-Layer Iridescent Capsule!\n\nSom ASMR original masterizado em alta definição | Categoria: layered_ball_slicing\nTransformação visual: Cápsula toroidal de polímero iridescente (24 camadas em ametista, cobre, safira e magenta) fatiada por lâmina de aço damasco em ângulo isométrico 45° sobre bancada reflexiva\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Shorts",
+            "tags": [
+              "ASMR",
+              "OddlySatisfying",
+              "Slicing",
+              "DamascusSteel",
+              "PolimeroIridescente",
+              "Satisfying",
+              "Shorts"
+            ],
+            "categoryId": "24"
+          },
+          "status": {
+            "privacyStatus": "public",
+            "selfDeclaredMadeForKids": false
+          },
+          "follow_up_comment": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!"
+        }
+      },
+      {
+        "ref_shortcode": "DfNRXxjou-k",
+        "plataforma": "instagram_reels",
+        "video_final_path": "criados/criado_02_corte_capsula_iridescente.mp4",
+        "titulo": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas!",
+        "legenda_completa": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Reels",
+        "hashtags": "#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Reels",
+        "primeiro_comentario": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "Instagram Graph API - POST /{ig-user-id}/media + media_publish",
+          "file_path": "C:\\videos-virais\\criados\\criado_02_corte_capsula_iridescente.mp4",
+          "media_type": "REELS",
+          "share_to_feed": true,
+          "caption": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Reels",
+          "follow_up_comment": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!"
+        }
+      },
+      {
+        "ref_shortcode": "DfNRXxjou-k",
+        "plataforma": "tiktok",
+        "video_final_path": "criados/criado_02_corte_capsula_iridescente.mp4",
+        "titulo": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas!",
+        "legenda_completa": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #FYP",
+        "hashtags": "#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #FYP",
+        "primeiro_comentario": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "TikTok Content Posting API - POST /v2/post/publish/video/init/",
+          "file_path": "C:\\videos-virais\\criados\\criado_02_corte_capsula_iridescente.mp4",
+          "post_info": {
+            "title": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #FYP",
+            "privacy_level": "PUBLIC_TO_EVERYONE",
+            "disable_duet": false,
+            "disable_stitch": false
+          },
+          "source_info": {
+            "source": "FILE_UPLOAD",
+            "video_size": 9969825
+          },
+          "follow_up_comment": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab"
+        }
+      }
+    ]
+  },
+  {
+    "shortcode": "Df6LIe7uxxw",
+    "categoria_fisica": "rotary_shredding",
+    "variacao_tema": "Eixo helicoidal com crosta vulcânica escura usinado em tracking shot oblíquo a 60° por pastilha dourada com linha incandescente rubi revelando cromo azul-safira",
+    "video_final_path": "criados/criado_03_torno_helicoidal_damasco.mp4",
+    "video_specs": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "fps": 60.0,
+      "duration_sec": 10.0,
+      "size_bytes": 6341143
+    },
+    "handles": {
+      "youtube_shorts": "@ASMRViralLab",
+      "instagram_reels": "@ASMRViralLab",
+      "tiktok": "@ASMRViralLab"
+    },
+    "plataformas": [
+      {
+        "ref_shortcode": "Df6LIe7uxxw",
+        "plataforma": "youtube_shorts",
+        "video_final_path": "criados/criado_03_torno_helicoidal_damasco.mp4",
+        "titulo": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! #Shorts",
+        "legenda_completa": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada!\nHelical Lathe: Volcanic Crust to Mirror Sapphire Chrome!\n\nSom ASMR original masterizado em alta definição | Categoria: rotary_shredding\nTransformação visual: Eixo helicoidal com crosta vulcânica escura usinado em tracking shot oblíquo a 60° por pastilha dourada com linha incandescente rubi revelando cromo azul-safira\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Shorts",
+        "hashtags": "#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Shorts",
+        "primeiro_comentario": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "YouTube Data API v3 - videos.insert",
+          "file_path": "C:\\videos-virais\\criados\\criado_03_torno_helicoidal_damasco.mp4",
+          "snippet": {
+            "title": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! #Shorts",
+            "description": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada!\nHelical Lathe: Volcanic Crust to Mirror Sapphire Chrome!\n\nSom ASMR original masterizado em alta definição | Categoria: rotary_shredding\nTransformação visual: Eixo helicoidal com crosta vulcânica escura usinado em tracking shot oblíquo a 60° por pastilha dourada com linha incandescente rubi revelando cromo azul-safira\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Shorts",
+            "tags": [
+              "ASMR",
+              "OddlySatisfying",
+              "MetalLathe",
+              "MachiningASMR",
+              "AcoDamasco",
+              "Satisfying",
+              "Shorts"
+            ],
+            "categoryId": "24"
+          },
+          "status": {
+            "privacyStatus": "public",
+            "selfDeclaredMadeForKids": false
+          },
+          "follow_up_comment": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!"
+        }
+      },
+      {
+        "ref_shortcode": "Df6LIe7uxxw",
+        "plataforma": "instagram_reels",
+        "video_final_path": "criados/criado_03_torno_helicoidal_damasco.mp4",
+        "titulo": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada!",
+        "legenda_completa": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Reels",
+        "hashtags": "#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Reels",
+        "primeiro_comentario": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "Instagram Graph API - POST /{ig-user-id}/media + media_publish",
+          "file_path": "C:\\videos-virais\\criados\\criado_03_torno_helicoidal_damasco.mp4",
+          "media_type": "REELS",
+          "share_to_feed": true,
+          "caption": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #Reels",
+          "follow_up_comment": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!"
+        }
+      },
+      {
+        "ref_shortcode": "Df6LIe7uxxw",
+        "plataforma": "tiktok",
+        "video_final_path": "criados/criado_03_torno_helicoidal_damasco.mp4",
+        "titulo": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada!",
+        "legenda_completa": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #FYP",
+        "hashtags": "#ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #FYP",
+        "primeiro_comentario": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "TikTok Content Posting API - POST /v2/post/publish/video/init/",
+          "file_path": "C:\\videos-virais\\criados\\criado_03_torno_helicoidal_damasco.mp4",
+          "post_info": {
+            "title": "Torno Helicoidal: Crosta Vulcânica para Safira Espelhada! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #MetalLathe #MachiningASMR #AcoDamasco #Satisfying #FYP",
+            "privacy_level": "PUBLIC_TO_EVERYONE",
+            "disable_duet": false,
+            "disable_stitch": false
+          },
+          "source_info": {
+            "source": "FILE_UPLOAD",
+            "video_size": 6341143
+          },
+          "follow_up_comment": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab"
+        }
+      }
+    ]
+  },
+  {
+    "shortcode": "uhQXBMZ-sTg",
+    "categoria_fisica": "rug_cleaning_asmr",
+    "variacao_tema": "Superfície arquitetônica hexagonal em ouro escovado e grafite coberta por espuma bioluminescente turquesa/magenta/violeta raspada por rodo duplo de titânio em ângulo de 50°",
+    "video_final_path": "criados/criado_04_rodo_espuma_prismatica.mp4",
+    "video_specs": {
+      "width": 1080,
+      "height": 1920,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "fps": 60.0,
+      "duration_sec": 10.0,
+      "size_bytes": 7835220
+    },
+    "handles": {
+      "youtube_shorts": "@ASMRViralLab",
+      "instagram_reels": "@ASMRViralLab",
+      "tiktok": "@ASMRViralLab"
+    },
+    "plataformas": [
+      {
+        "ref_shortcode": "uhQXBMZ-sTg",
+        "plataforma": "youtube_shorts",
+        "video_final_path": "criados/criado_04_rodo_espuma_prismatica.mp4",
+        "titulo": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! #Shorts",
+        "legenda_completa": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal!\nTitanium Squeegee Clearing Neon Foam on Hex Gold!\n\nSom ASMR original masterizado em alta definição | Categoria: rug_cleaning_asmr\nTransformação visual: Superfície arquitetônica hexagonal em ouro escovado e grafite coberta por espuma bioluminescente turquesa/magenta/violeta raspada por rodo duplo de titânio em ângulo de 50°\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Shorts",
+        "hashtags": "#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Shorts",
+        "primeiro_comentario": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "YouTube Data API v3 - videos.insert",
+          "file_path": "C:\\videos-virais\\criados\\criado_04_rodo_espuma_prismatica.mp4",
+          "snippet": {
+            "title": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! #Shorts",
+            "description": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal!\nTitanium Squeegee Clearing Neon Foam on Hex Gold!\n\nSom ASMR original masterizado em alta definição | Categoria: rug_cleaning_asmr\nTransformação visual: Superfície arquitetônica hexagonal em ouro escovado e grafite coberta por espuma bioluminescente turquesa/magenta/violeta raspada por rodo duplo de titânio em ângulo de 50°\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Shorts",
+            "tags": [
+              "ASMR",
+              "OddlySatisfying",
+              "FoamCleaning",
+              "SatisfyingASMR",
+              "OuroHexagonal",
+              "Relaxing",
+              "Satisfying",
+              "Shorts"
+            ],
+            "categoryId": "24"
+          },
+          "status": {
+            "privacyStatus": "public",
+            "selfDeclaredMadeForKids": false
+          },
+          "follow_up_comment": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!"
+        }
+      },
+      {
+        "ref_shortcode": "uhQXBMZ-sTg",
+        "plataforma": "instagram_reels",
+        "video_final_path": "criados/criado_04_rodo_espuma_prismatica.mp4",
+        "titulo": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal!",
+        "legenda_completa": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Reels",
+        "hashtags": "#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Reels",
+        "primeiro_comentario": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "Instagram Graph API - POST /{ig-user-id}/media + media_publish",
+          "file_path": "C:\\videos-virais\\criados\\criado_04_rodo_espuma_prismatica.mp4",
+          "media_type": "REELS",
+          "share_to_feed": true,
+          "caption": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #Satisfying #Reels",
+          "follow_up_comment": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!"
+        }
+      },
+      {
+        "ref_shortcode": "uhQXBMZ-sTg",
+        "plataforma": "tiktok",
+        "video_final_path": "criados/criado_04_rodo_espuma_prismatica.mp4",
+        "titulo": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal!",
+        "legenda_completa": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #FYP",
+        "hashtags": "#ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #FYP",
+        "primeiro_comentario": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab",
+        "status": "pronto",
+        "post_url": null,
+        "api_payload": {
+          "endpoint": "TikTok Content Posting API - POST /v2/post/publish/video/init/",
+          "file_path": "C:\\videos-virais\\criados\\criado_04_rodo_espuma_prismatica.mp4",
+          "post_info": {
+            "title": "Rodo de Titânio Limpando Espuma Neon em Ouro Hexagonal! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #FoamCleaning #SatisfyingASMR #OuroHexagonal #Relaxing #FYP",
+            "privacy_level": "PUBLIC_TO_EVERYONE",
+            "disable_duet": false,
+            "disable_stitch": false
+          },
+          "source_info": {
+            "source": "FILE_UPLOAD",
+            "video_size": 7835220
+          },
+          "follow_up_comment": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab"
+        }
+      }
+    ]
+  }
+]

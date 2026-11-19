@@ -1,0 +1,101 @@
+{
+  "shortcode": "DfNRXxjou-k",
+  "categoria_fisica": "layered_ball_slicing",
+  "variacao_tema": "Cápsula toroidal de polímero iridescente (24 camadas em ametista, cobre, safira e magenta) fatiada por lâmina de aço damasco em ângulo isométrico 45° sobre bancada reflexiva",
+  "video_final_path": "criados/criado_02_corte_capsula_iridescente.mp4",
+  "video_specs": {
+    "width": 1080,
+    "height": 1920,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "fps": 60.0,
+    "duration_sec": 10.0,
+    "size_bytes": 9969825
+  },
+  "handles": {
+    "youtube_shorts": "@ASMRViralLab",
+    "instagram_reels": "@ASMRViralLab",
+    "tiktok": "@ASMRViralLab"
+  },
+  "plataformas": [
+    {
+      "ref_shortcode": "DfNRXxjou-k",
+      "plataforma": "youtube_shorts",
+      "video_final_path": "criados/criado_02_corte_capsula_iridescente.mp4",
+      "titulo": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! #Shorts",
+      "legenda_completa": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas!\nDamascus Blade Slicing 24-Layer Iridescent Capsule!\n\nSom ASMR original masterizado em alta definição | Categoria: layered_ball_slicing\nTransformação visual: Cápsula toroidal de polímero iridescente (24 camadas em ametista, cobre, safira e magenta) fatiada por lâmina de aço damasco em ângulo isométrico 45° sobre bancada reflexiva\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Shorts",
+      "hashtags": "#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Shorts",
+      "primeiro_comentario": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "YouTube Data API v3 - videos.insert",
+        "file_path": "C:\\videos-virais\\criados\\criado_02_corte_capsula_iridescente.mp4",
+        "snippet": {
+          "title": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! #Shorts",
+          "description": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas!\nDamascus Blade Slicing 24-Layer Iridescent Capsule!\n\nSom ASMR original masterizado em alta definição | Categoria: layered_ball_slicing\nTransformação visual: Cápsula toroidal de polímero iridescente (24 camadas em ametista, cobre, safira e magenta) fatiada por lâmina de aço damasco em ângulo isométrico 45° sobre bancada reflexiva\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Shorts",
+          "tags": [
+            "ASMR",
+            "OddlySatisfying",
+            "Slicing",
+            "DamascusSteel",
+            "PolimeroIridescente",
+            "Satisfying",
+            "Shorts"
+          ],
+          "categoryId": "24"
+        },
+        "status": {
+          "privacyStatus": "public",
+          "selfDeclaredMadeForKids": false
+        },
+        "follow_up_comment": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!"
+      }
+    },
+    {
+      "ref_shortcode": "DfNRXxjou-k",
+      "plataforma": "instagram_reels",
+      "video_final_path": "criados/criado_02_corte_capsula_iridescente.mp4",
+      "titulo": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas!",
+      "legenda_completa": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Reels",
+      "hashtags": "#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Reels",
+      "primeiro_comentario": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "Instagram Graph API - POST /{ig-user-id}/media + media_publish",
+        "file_path": "C:\\videos-virais\\criados\\criado_02_corte_capsula_iridescente.mp4",
+        "media_type": "REELS",
+        "share_to_feed": true,
+        "caption": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #Reels",
+        "follow_up_comment": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!"
+      }
+    },
+    {
+      "ref_shortcode": "DfNRXxjou-k",
+      "plataforma": "tiktok",
+      "video_final_path": "criados/criado_02_corte_capsula_iridescente.mp4",
+      "titulo": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas!",
+      "legenda_completa": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #FYP",
+      "hashtags": "#ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #FYP",
+      "primeiro_comentario": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "TikTok Content Posting API - POST /v2/post/publish/video/init/",
+        "file_path": "C:\\videos-virais\\criados\\criado_02_corte_capsula_iridescente.mp4",
+        "post_info": {
+          "title": "Lâmina Damasco Fatiando Cápsula Iridescente 24 Camadas! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #Slicing #DamascusSteel #PolimeroIridescente #Satisfying #FYP",
+          "privacy_level": "PUBLIC_TO_EVERYONE",
+          "disable_duet": false,
+          "disable_stitch": false
+        },
+        "source_info": {
+          "source": "FILE_UPLOAD",
+          "video_size": 9969825
+        },
+        "follow_up_comment": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab"
+      }
+    }
+  ]
+}

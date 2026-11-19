@@ -1,0 +1,13 @@
+# Gerado automaticamente por gerenciador_modelos.py
+# Para ativar no ComfyUI, passe --extra-model-paths-config ou copie para a raiz do ComfyUI.
+videos_virais_local:
+  base_path: C:/videos-virais/modelos
+  diffusion_models: wan21/
+  unet: wan21/
+  text_encoders: |
+    text_encoders/
+    text_encoders/split_files/text_encoders/
+  clip: |
+    text_encoders/
+    text_encoders/split_files/text_encoders/
+  vae: vae/

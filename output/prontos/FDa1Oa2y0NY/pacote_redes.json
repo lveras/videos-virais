@@ -1,0 +1,101 @@
+{
+  "shortcode": "FDa1Oa2y0NY",
+  "categoria_fisica": "hydraulic_press_crush",
+  "variacao_tema": "Octaedro chanfrado de cristal esmeralda translúcido com veios de ouro líquido 24K esmagado em câmara baixa diagonal 35° por pistão hexagonal sobre bigorna de titânio",
+  "video_final_path": "criados/criado_01_prensa_cristal_esmeralda.mp4",
+  "video_specs": {
+    "width": 1080,
+    "height": 1920,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "fps": 60.0,
+    "duration_sec": 10.0,
+    "size_bytes": 6577611
+  },
+  "handles": {
+    "youtube_shorts": "@ASMRViralLab",
+    "instagram_reels": "@ASMRViralLab",
+    "tiktok": "@ASMRViralLab"
+  },
+  "plataformas": [
+    {
+      "ref_shortcode": "FDa1Oa2y0NY",
+      "plataforma": "youtube_shorts",
+      "video_final_path": "criados/criado_01_prensa_cristal_esmeralda.mp4",
+      "titulo": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! #Shorts",
+      "legenda_completa": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K!\nHexagonal Press vs Emerald Crystal & 24K Gold!\n\nSom ASMR original masterizado em alta definição | Categoria: hydraulic_press_crush\nTransformação visual: Octaedro chanfrado de cristal esmeralda translúcido com veios de ouro líquido 24K esmagado em câmara baixa diagonal 35° por pistão hexagonal sobre bigorna de titânio\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Shorts",
+      "hashtags": "#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Shorts",
+      "primeiro_comentario": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "YouTube Data API v3 - videos.insert",
+        "file_path": "C:\\videos-virais\\criados\\criado_01_prensa_cristal_esmeralda.mp4",
+        "snippet": {
+          "title": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! #Shorts",
+          "description": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K!\nHexagonal Press vs Emerald Crystal & 24K Gold!\n\nSom ASMR original masterizado em alta definição | Categoria: hydraulic_press_crush\nTransformação visual: Octaedro chanfrado de cristal esmeralda translúcido com veios de ouro líquido 24K esmagado em câmara baixa diagonal 35° por pistão hexagonal sobre bigorna de titânio\n\n📲 Acompanhe também no Instagram (@ASMRViralLab) e TikTok (@ASMRViralLab)\n\n#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Shorts",
+          "tags": [
+            "ASMR",
+            "OddlySatisfying",
+            "PrensaHidraulica",
+            "CristalEsmeralda",
+            "3DASMR",
+            "Satisfying",
+            "Shorts"
+          ],
+          "categoryId": "24"
+        },
+        "status": {
+          "privacyStatus": "public",
+          "selfDeclaredMadeForKids": false
+        },
+        "follow_up_comment": "Qual material você quer ver nessa máquina no próximo vídeo? Siga também @ASMRViralLab no Instagram e @ASMRViralLab no TikTok!"
+      }
+    },
+    {
+      "ref_shortcode": "FDa1Oa2y0NY",
+      "plataforma": "instagram_reels",
+      "video_final_path": "criados/criado_01_prensa_cristal_esmeralda.mp4",
+      "titulo": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K!",
+      "legenda_completa": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Reels",
+      "hashtags": "#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Reels",
+      "primeiro_comentario": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "Instagram Graph API - POST /{ig-user-id}/media + media_publish",
+        "file_path": "C:\\videos-virais\\criados\\criado_01_prensa_cristal_esmeralda.mp4",
+        "media_type": "REELS",
+        "share_to_feed": true,
+        "caption": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! 🎧✨\n\nAumente o som para o ASMR real (10.0s em 60fps).\n📺 Veja a coleção completa no YouTube (@ASMRViralLab) e TikTok (@ASMRViralLab).\n.\n.\n#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #Reels",
+        "follow_up_comment": "De 0 a 10, qual o nível de satisfação desse som? 👇 Mais vídeos diários em @ASMRViralLab (YouTube) e @ASMRViralLab (TikTok)!"
+      }
+    },
+    {
+      "ref_shortcode": "FDa1Oa2y0NY",
+      "plataforma": "tiktok",
+      "video_final_path": "criados/criado_01_prensa_cristal_esmeralda.mp4",
+      "titulo": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K!",
+      "legenda_completa": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #FYP",
+      "hashtags": "#ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #FYP",
+      "primeiro_comentario": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab",
+      "status": "pronto",
+      "post_url": null,
+      "api_payload": {
+        "endpoint": "TikTok Content Posting API - POST /v2/post/publish/video/init/",
+        "file_path": "C:\\videos-virais\\criados\\criado_01_prensa_cristal_esmeralda.mp4",
+        "post_info": {
+          "title": "Prensa Hexagonal vs Cristal Esmeralda e Ouro 24K! 🔥🎧 Som ASMR real sem cortes! Siga também no IG (@ASMRViralLab) e YouTube (@ASMRViralLab) #ASMR #OddlySatisfying #PrensaHidraulica #CristalEsmeralda #3DASMR #Satisfying #FYP",
+          "privacy_level": "PUBLIC_TO_EVERYONE",
+          "disable_duet": false,
+          "disable_stitch": false
+        },
+        "source_info": {
+          "source": "FILE_UPLOAD",
+          "video_size": 6577611
+        },
+        "follow_up_comment": "Ouça de fone 🎧🔥 Qual próximo objeto testamos? IG: @ASMRViralLab | YT: @ASMRViralLab"
+      }
+    }
+  ]
+}

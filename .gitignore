@@ -1,0 +1,29 @@
+# Python & ambientes
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+*.log
+*.err
+
+# Credenciais reais (mantenha apenas o .example.json no Git)
+config/credenciais_publicacao.json
+config/*_token.json
+config/*_secrets.json
+
+# Midias brutas e caches pesados regeneraveis (minerador.py / masterizador.py)
+baixados/*.mp4
+referencias/videos/*.mp4
+referencias/audios_asmr/*.wav
+criados/*_preview_asmr_remix.mp4
+output/*_preview_asmr_remix.mp4
+
+# Pesos binarios gigantes de modelos de difusao (baixados sob demanda por gerenciador_modelos.py)
+modelos/**/*.safetensors
+modelos/**/*.pth
+modelos/**/*.gguf
+modelos/**/*.bin
+modelos/**/*.pt
+modelos/**/.cache/
